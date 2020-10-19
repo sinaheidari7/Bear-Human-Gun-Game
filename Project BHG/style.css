@@ -1,0 +1,33 @@
+body {
+	font-family: 'Archivo Black', sans-serif;
+	color:#202020;
+  background-color:#44D9E6;
+}
+
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+
+#output{
+  text-align: center;
+  margin-top: 5rem;
+}
+
+footer{
+  display: block;
+  margin-bottom: 1px;
+  text-align: center;
+}
+
+
+
